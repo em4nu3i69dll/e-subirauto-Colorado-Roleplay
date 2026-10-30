@@ -8,13 +8,13 @@ Ajuste de altura, movimientos y luces desde un panel. Control individual y sincr
 
 </div>
 
-<img src="medios/portada.jpg" alt="Panel de suspensión neumática junto al vehículo" width="100%">
-
-## Video
-
-[![Suspensión neumática en juego](medios/portada.jpg)](https://youtu.be/OA5g6D8fZsU)
-
-[Ver en YouTube](https://youtu.be/OA5g6D8fZsU)
+<p align="center">
+  <a href="https://youtu.be/OA5g6D8fZsU">
+    <img src="medios/portada.jpg" alt="Ver video de suspensión neumática en YouTube" width="100%">
+    <br>
+    ▶ Ver video
+  </a>
+</p>
 
 ## Altura
 
